@@ -1,2 +1,2 @@
-# coq-extraction-loop
+# Extraction Loop
 Interface to the infinite integer.
